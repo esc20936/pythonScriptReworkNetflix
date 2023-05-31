@@ -1,0 +1,36 @@
+{
+    "Title": "The Suicide Squad",
+    "Year": "2021",
+    "Rated": "R",
+    "Released": "05 Aug 2021",
+    "Runtime": "132 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "James Gunn",
+    "Writer": "James Gunn",
+    "Actors": "Margot Robbie, Idris Elba, John Cena",
+    "Plot": "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    "Language": "English, Spanish, Japanese, Cantonese",
+    "Country": "United States",
+    "Awards": "4 wins & 41 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4NDQ2NjEtNjhkOS00Y2MwLWJkODItZmJhZGE0MDU1OWM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.2",
+    "imdbVotes": "371,913",
+    "imdbID": "tt6334354",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$55,817,425",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Minari",
+    "Year": "2020",
+    "Rated": "PG-13",
+    "Released": "12 Feb 2021",
+    "Runtime": "115 min",
+    "Genre": "Drama",
+    "Director": "Lee Isaac Chung",
+    "Writer": "Lee Isaac Chung",
+    "Actors": "Steven Yeun, Yeri Han, Alan Kim",
+    "Plot": "A Korean family starts a farm in 1980s Arkansas.",
+    "Language": "Korean, English",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 121 wins & 249 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWEzOTNjNDgtZDhhYS00ODAxLWIzNGMtYjU3OGZhYmI3ZDU4XkEyXkFqcGdeQXVyMTAzNjk5MDI4._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "89/100"
+        }
+    ],
+    "Metascore": "89",
+    "imdbRating": "7.4",
+    "imdbVotes": "86,524",
+    "imdbID": "tt10633456",
+    "Type": "movie",
+    "DVD": "26 Feb 2021",
+    "BoxOffice": "$3,110,580",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Midnight Sky",
+    "Year": "2020",
+    "Rated": "PG-13",
+    "Released": "23 Dec 2020",
+    "Runtime": "118 min",
+    "Genre": "Adventure, Drama, Sci-Fi",
+    "Director": "George Clooney",
+    "Writer": "Lily Brooks-Dalton, Mark L. Smith",
+    "Actors": "George Clooney, Felicity Jones, David Oyelowo",
+    "Plot": "This post-apocalyptic tale follows Augustine, a lonely scientist in the Arctic, as he races to stop Sully and her fellow astronauts from returning home to a mysterious global catastrophe.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 5 wins & 46 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDQwYjJjODMtOWNmNC00NDJjLThiNDgtNzVkOTM1MjY5NDQ5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "49%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "5.7",
+    "imdbVotes": "85,946",
+    "imdbID": "tt10539608",
+    "Type": "movie",
+    "DVD": "23 Dec 2020",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

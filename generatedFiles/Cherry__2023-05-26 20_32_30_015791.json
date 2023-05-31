@@ -1,0 +1,40 @@
+{
+    "Title": "Cherry",
+    "Year": "2021",
+    "Rated": "R",
+    "Released": "12 Mar 2021",
+    "Runtime": "142 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Anthony Russo, Joe Russo",
+    "Writer": "Angela Russo-Otstot, Jessica Goldberg, Nico Walker",
+    "Actors": "Tom Holland, Ciara Bravo, Jack Reynor",
+    "Plot": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTZkMzlkYmItZDAyNy00NmZhLWE3MWItMzQyNDhkYzcwMTFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "37%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "6.6",
+    "imdbVotes": "34,224",
+    "imdbID": "tt9130508",
+    "Type": "movie",
+    "DVD": "12 Mar 2021",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

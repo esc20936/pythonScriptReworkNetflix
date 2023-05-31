@@ -1,0 +1,40 @@
+{
+    "Title": "The Dig",
+    "Year": "2021",
+    "Rated": "PG-13",
+    "Released": "29 Jan 2021",
+    "Runtime": "112 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Simon Stone",
+    "Writer": "Moira Buffini, John Preston",
+    "Actors": "Carey Mulligan, Ralph Fiennes, Lily James",
+    "Plot": "An archaeologist embarks on the historically important excavation of Sutton Hoo in 1938.",
+    "Language": "English",
+    "Country": "United Kingdom",
+    "Awards": "Nominated for 5 BAFTA 3 wins & 10 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2RmZmI0NDMtMGQzOC00YWU3LTkwYWUtMDRkNDBjZDg3YTkyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.1",
+    "imdbVotes": "77,917",
+    "imdbID": "tt3661210",
+    "Type": "movie",
+    "DVD": "29 Jan 2021",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

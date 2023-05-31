@@ -1,0 +1,40 @@
+{
+    "Title": "Gone with the Wind",
+    "Year": "1939",
+    "Rated": "Passed",
+    "Released": "17 Jan 1940",
+    "Runtime": "238 min",
+    "Genre": "Drama, Romance, War",
+    "Director": "Victor Fleming, George Cukor, Sam Wood",
+    "Writer": "Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett",
+    "Actors": "Clark Gable, Vivien Leigh, Thomas Mitchell",
+    "Plot": "American motion picture classic in which a manipulative woman and a roguish man conduct a turbulent romance during the Civil War and Reconstruction periods.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 8 Oscars. 22 wins & 12 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "97/100"
+        }
+    ],
+    "Metascore": "97",
+    "imdbRating": "8.2",
+    "imdbVotes": "321,698",
+    "imdbID": "tt0031381",
+    "Type": "movie",
+    "DVD": "17 Nov 2009",
+    "BoxOffice": "$200,882,193",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "I Care a Lot",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "19 Feb 2021",
+    "Runtime": "118 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "J Blakeson",
+    "Writer": "J Blakeson",
+    "Actors": "Rosamund Pike, Peter Dinklage, Eiza Gonz\u00e1lez",
+    "Plot": "A crooked legal guardian who drains the savings of her elderly wards meets her match when a woman she tries to swindle turns out to be more than she first appears.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "1 win & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWU2ZTRhNDMtMWYxMC00ZTVkLThjZmItZGY4MGU0YmZlMjJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.3",
+    "imdbVotes": "137,235",
+    "imdbID": "tt9893250",
+    "Type": "movie",
+    "DVD": "19 Feb 2021",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

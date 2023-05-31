@@ -1,0 +1,40 @@
+{
+    "Title": "The White Tiger",
+    "Year": "2021",
+    "Rated": "R",
+    "Released": "22 Jan 2021",
+    "Runtime": "125 min",
+    "Genre": "Crime, Drama",
+    "Director": "Ramin Bahrani",
+    "Writer": "Ramin Bahrani, Aravind Adiga",
+    "Actors": "Adarsh Gourav, Rajkummar Rao, Priyanka Chopra Jonas",
+    "Plot": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
+    "Language": "Hindi, English",
+    "Country": "India, United States",
+    "Awards": "Nominated for 1 Oscar. 1 win & 12 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.1",
+    "imdbVotes": "62,630",
+    "imdbID": "tt6571548",
+    "Type": "movie",
+    "DVD": "22 Jan 2021",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

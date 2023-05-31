@@ -1,0 +1,40 @@
+{
+    "Title": "Promising Young Woman",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "25 Dec 2020",
+    "Runtime": "113 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Emerald Fennell",
+    "Writer": "Emerald Fennell",
+    "Actors": "Carey Mulligan, Bo Burnham, Alison Brie",
+    "Plot": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "Won 1 Oscar. 117 wins & 194 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgzMzE4MGItZDgxYS00ZGEwLWE3YTctZWY3ZDAyMTk0ZGU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.5",
+    "imdbVotes": "186,236",
+    "imdbID": "tt9620292",
+    "Type": "movie",
+    "DVD": "15 Jan 2021",
+    "BoxOffice": "$6,460,965",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

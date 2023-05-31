@@ -1,0 +1,40 @@
+{
+    "Title": "Joker",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "04 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Todd Phillips",
+    "Writer": "Todd Phillips, Scott Silver, Bob Kane",
+    "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+    "Plot": "The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "Won 2 Oscars. 122 wins & 239 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "8.4",
+    "imdbVotes": "1,341,316",
+    "imdbID": "tt7286456",
+    "Type": "movie",
+    "DVD": "03 Oct 2019",
+    "BoxOffice": "$335,477,657",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

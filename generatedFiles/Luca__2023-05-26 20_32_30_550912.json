@@ -1,0 +1,40 @@
+{
+    "Title": "Luca",
+    "Year": "2021",
+    "Rated": "PG",
+    "Released": "18 Jun 2021",
+    "Runtime": "95 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Enrico Casarosa",
+    "Writer": "Enrico Casarosa, Jesse Andrews, Simon Stephenson",
+    "Actors": "Jacob Tremblay, Jack Dylan Grazer, Emma Berman",
+    "Plot": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+    "Language": "English, Italian",
+    "Country": "Italy, United States",
+    "Awards": "Nominated for 1 Oscar. 4 wins & 78 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.4",
+    "imdbVotes": "172,150",
+    "imdbID": "tt12801262",
+    "Type": "movie",
+    "DVD": "18 Jun 2021",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
